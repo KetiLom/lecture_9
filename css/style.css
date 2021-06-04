@@ -144,7 +144,6 @@ footer{
     .logo{
         display: none;
     }
-    .reorder {
-        flex-direction: column-reverse;
-    }
+
+
 }
